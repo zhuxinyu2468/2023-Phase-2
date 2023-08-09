@@ -2,7 +2,7 @@ import json, os, joblib
 import numpy as np
 
 # Since the model works with label-encoded data, we can create a dictionary to get the actual class names
-classes = {0: "setosa", 1: "versicolor", 2: "virginica"}
+classes = {0: "bad", 1: "good"}
 
 def init():
     # Loads the model
