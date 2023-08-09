@@ -3,6 +3,7 @@
 ## What I have done
 Please see the data-science division that includes credit-risk(classification) and salary(regression)
 
+Dataset after preprocessed and the prediction models have been stored in the 0 Resources directory.
 
 ## Welcome
 Welcome to Phase 2 of the 2023 MSA programme! This year, Phase 2 consists of two components:
