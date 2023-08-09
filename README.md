@@ -1,5 +1,9 @@
 # 2023 Phase 2
 
+## What I have done
+Please see the data-science division that includes credit-risk(classification) and salary(regression)
+
+
 Welcome to Phase 2 of the 2023 MSA programme! This year, Phase 2 consists of two components:
 
 1. Technical
